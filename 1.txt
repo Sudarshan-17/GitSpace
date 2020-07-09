@@ -1,0 +1,2 @@
+this is verion 1 of my project
+I want this to commit 2
